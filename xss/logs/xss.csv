@@ -1,1 +1,3 @@
 time,url,message,cookie
+1665215734773,http://localhost:3000/api/xss?message=Hello,Hello,undefined
+1665216419919,http://localhost:3000/api/xss?message=Hello,Hello,undefined
